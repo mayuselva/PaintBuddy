@@ -1,3 +1,4 @@
+<!-- test -->
 @extends('layout.layout')
 @section('content')
     <div id="all">
